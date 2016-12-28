@@ -6,7 +6,7 @@
 
 ### 目录
 
-#### 一、[熟悉Objective-C](#一、熟悉Objective-C)
+#### [一、熟悉Objective-C](#一、熟悉Objective-C)
 
 >1. [Objective-C起源](#1.Objective-C起源)
 >2. [类.h文件尽量少引入其他类的.h文件](#2.类.h文件尽量少引入其他类的.h文件)
